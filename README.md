@@ -9,7 +9,7 @@ The Jupyter notebooks for this repository are in four groups:
 3. Refining chosen models
 4. Creating visuals for a presentation
 
-[Medium blog post about this project.](https://halpert3.medium.com/my-introduction-to-machine-learning-models-afad8595598d)
+Link to [Medium blog post about this project.](https://halpert3.medium.com/my-introduction-to-machine-learning-models-afad8595598d)
 
 # Data
 
