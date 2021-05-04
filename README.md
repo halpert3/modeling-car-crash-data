@@ -9,6 +9,8 @@ The Jupyter notebooks for this repository are in four groups:
 3. Refining chosen models
 4. Creating visuals for a presentation
 
+[Medium blog post about this project.](https://halpert3.medium.com/my-introduction-to-machine-learning-models-afad8595598d)
+
 # Data
 
 This project uses City of Chicago accident data, mostly from 2017 to 2020. I merged the main dataset with another Chicago dataset of people involved in the car crashes.
